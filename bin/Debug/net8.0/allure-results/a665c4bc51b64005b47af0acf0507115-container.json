@@ -1,0 +1,12 @@
+{
+  "uuid": "23e1bf24-59ca-4da3-9da3-2b5f8c979313",
+  "name": "NUnitSelenium.NUnitTest.AllureTestReportGeneration.Products",
+  "children": [
+    "f4b153e1-e42f-4c20-bec9-ea1287532b40"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1726484121577,
+  "stop": 1726484121595
+}

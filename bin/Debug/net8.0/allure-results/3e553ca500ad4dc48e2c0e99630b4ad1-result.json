@@ -1,0 +1,52 @@
+{
+  "uuid": "8f48370b-c2f3-4f4b-8f3b-603b79b843fd",
+  "historyId": "e2bca2b2a9fb18090f4f2f3300b0cf67",
+  "testCaseId": "cf33d9f29cfcc371adfaa377e31374be",
+  "fullName": "NUnitSelenium:NUnitSelenium.NUnitTest.Assertions.AssertionTest()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "AUTOOADVLA50ZZG"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "NUnitSelenium.NUnitTest"
+    },
+    {
+      "name": "testMethod",
+      "value": "AssertionTest"
+    },
+    {
+      "name": "testClass",
+      "value": "Assertions"
+    }
+  ],
+  "links": [],
+  "name": "AssertionTest",
+  "status": "failed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "  Expected: not equal to \"google\"\r\n  But was:  \"google\"\r\n",
+    "trace": "   at NUnitSelenium.NUnitTest.Assertions.AssertionTest() in C:\\Users\\shosh\\source\\repos\\NUnitSelenium\\NUnitTest\\Assertions.cs:line 22\r\n"
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1726485485140,
+  "stop": 1726485485189
+}

@@ -1,0 +1,12 @@
+{
+  "uuid": "f205e3db-c8bc-489b-8475-cdf30f6f06db",
+  "name": "NUnitSelenium.NUnitTest.UnitTestCalculatorWithSetUpandtearDown.TestSub",
+  "children": [
+    "ca294a0e-1d0c-462c-b26f-29bf2c4793f3"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1726485485364,
+  "stop": 1726485485368
+}

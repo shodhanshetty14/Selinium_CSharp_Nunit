@@ -1,0 +1,52 @@
+{
+  "uuid": "1d05ae64-7989-4ee9-bedf-8ecf95965369",
+  "historyId": "33ffbd6f17974695e3b328d85ccf7307",
+  "testCaseId": "0bb41529ebda3e9be893c38d64db6894",
+  "fullName": "NUnitSelenium:NUnitSelenium.NUnitTest.Tests.Test1()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "AUTOOADVLA50ZZG"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "NUnitSelenium.NUnitTest"
+    },
+    {
+      "name": "testMethod",
+      "value": "Test1"
+    },
+    {
+      "name": "testClass",
+      "value": "Tests"
+    }
+  ],
+  "links": [],
+  "name": "Test1",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "Test Passed",
+    "trace": "   at NUnitSelenium.NUnitTest.Tests.Test1() in C:\\Users\\shosh\\source\\repos\\NUnitSelenium\\NUnitTest\\UnitTest1.cs:line 14\r\n"
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1726485485336,
+  "stop": 1726485485338
+}
