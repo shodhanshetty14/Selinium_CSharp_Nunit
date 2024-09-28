@@ -1,0 +1,51 @@
+{
+  "uuid": "b8d3931d-8ef4-48c2-8bcb-dfcc6f17094d",
+  "historyId": "b3ba588e0bfbd36717e513291d104ab0",
+  "testCaseId": "19359877a5c84bc227375967f37e73e8",
+  "fullName": "NUnitSelenium:NUnitSelenium.NUnitTest.AllureTestReportGeneration.AddToCart()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "AUTOOADVLA50ZZG"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "NUnitSelenium.NUnitTest"
+    },
+    {
+      "name": "testMethod",
+      "value": "AddToCart"
+    },
+    {
+      "name": "testClass",
+      "value": "AllureTestReportGeneration"
+    }
+  ],
+  "links": [],
+  "name": "AddToCart",
+  "status": "passed",
+  "stage": "finished",
+  "steps": [],
+  "attachments": [
+    {
+      "name": "Console Output",
+      "source": "0d1f6b67-c485-419c-a73e-b848cdb9f810-attachment.txt",
+      "type": "text/plain"
+    }
+  ],
+  "parameters": [],
+  "start": 1727419402980,
+  "stop": 1727419402990
+}

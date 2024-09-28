@@ -1,0 +1,15 @@
+{
+  "uuid": "a2eb6066-7c04-414d-8832-1145b2b83f43",
+  "name": "NUnitSelenium.NUnitTest.CalculatorUnitTesting",
+  "children": [
+    "49319a78-5d9f-4852-8f76-7780b1b85b2b",
+    "a1648606-9c94-41cd-99cb-d8a86b929d46",
+    "33c40b4b-4768-420b-8af8-500a59d51c8f",
+    "11713676-8c05-4571-a33b-917aefce4ca9"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1727419403326,
+  "stop": 1727419403391
+}

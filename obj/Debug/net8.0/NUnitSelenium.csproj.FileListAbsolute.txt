@@ -133,3 +133,4 @@ C:\Users\shosh\source\repos\NUnitSelenium\obj\Debug\net8.0\refint\NUnitSelenium.
 C:\Users\shosh\source\repos\NUnitSelenium\obj\Debug\net8.0\NUnitSelenium.pdb
 C:\Users\shosh\source\repos\NUnitSelenium\obj\Debug\net8.0\NUnitSelenium.genruntimeconfig.cache
 C:\Users\shosh\source\repos\NUnitSelenium\obj\Debug\net8.0\ref\NUnitSelenium.dll
+C:\Users\shosh\source\repos\NUnitSelenium\obj\Debug\net8.0\NUnitSelenium.sourcelink.json

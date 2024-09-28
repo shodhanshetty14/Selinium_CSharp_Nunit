@@ -1,0 +1,52 @@
+{
+  "uuid": "bf4dc336-0beb-4330-aa19-37e0e12718c1",
+  "historyId": "8f34e2eb07315b3342ab6c082b6f3f18",
+  "testCaseId": "05618b115a11720e0b77d38ced0d690f",
+  "fullName": "NUnitSelenium:NUnitSelenium.NUnitTest.Description.testcase()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "AUTOOADVLA50ZZG"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "NUnitSelenium.NUnitTest"
+    },
+    {
+      "name": "testMethod",
+      "value": "testcase"
+    },
+    {
+      "name": "testClass",
+      "value": "Description"
+    }
+  ],
+  "links": [],
+  "name": "testcase",
+  "status": "passed",
+  "stage": "finished",
+  "description": "used to show how the description works\n",
+  "steps": [],
+  "attachments": [
+    {
+      "name": "Console Output",
+      "source": "a3394bbe-f437-4048-97a7-43eda3c48eb0-attachment.txt",
+      "type": "text/plain"
+    }
+  ],
+  "parameters": [],
+  "start": 1727418637996,
+  "stop": 1727418637999
+}

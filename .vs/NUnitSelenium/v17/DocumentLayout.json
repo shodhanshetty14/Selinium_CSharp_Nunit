@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "C:\\Users\\shosh\\source\\repos\\NUnitSelenium\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7AF92E22-2351-47D1-92C3-E82E5183E223}|NUnitSelenium.csproj|c:\\users\\shosh\\source\\repos\\nunitselenium\\selenium\\launchedgebrowser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AF92E22-2351-47D1-92C3-E82E5183E223}|NUnitSelenium.csproj|solutionrelative:selenium\\launchedgebrowser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF92E22-2351-47D1-92C3-E82E5183E223}|NUnitSelenium.csproj|c:\\users\\shosh\\source\\repos\\nunitselenium\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7AF92E22-2351-47D1-92C3-E82E5183E223}|NUnitSelenium.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF92E22-2351-47D1-92C3-E82E5183E223}|NUnitSelenium.csproj|c:\\users\\shosh\\source\\repos\\nunitselenium\\utilities\\base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AF92E22-2351-47D1-92C3-E82E5183E223}|NUnitSelenium.csproj|solutionrelative:utilities\\base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF92E22-2351-47D1-92C3-E82E5183E223}|NUnitSelenium.csproj|c:\\users\\shosh\\source\\repos\\nunitselenium\\selenium\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AF92E22-2351-47D1-92C3-E82E5183E223}|NUnitSelenium.csproj|solutionrelative:selenium\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7AF92E22-2351-47D1-92C3-E82E5183E223}|NUnitSelenium.csproj|c:\\users\\shosh\\source\\repos\\nunitselenium\\testparmexcel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7AF92E22-2351-47D1-92C3-E82E5183E223}|NUnitSelenium.csproj|solutionrelative:testparmexcel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -31,14 +47,6 @@
       "RelativeMoniker": "D:0:0:{7AF92E22-2351-47D1-92C3-E82E5183E223}|NUnitSelenium.csproj|solutionrelative:assignmetbooking\\bookingwebsite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7AF92E22-2351-47D1-92C3-E82E5183E223}|NUnitSelenium.csproj|c:\\users\\shosh\\source\\repos\\nunitselenium\\utilities\\base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7AF92E22-2351-47D1-92C3-E82E5183E223}|NUnitSelenium.csproj|solutionrelative:utilities\\base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7AF92E22-2351-47D1-92C3-E82E5183E223}|NUnitSelenium.csproj|c:\\users\\shosh\\source\\repos\\nunitselenium\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{7AF92E22-2351-47D1-92C3-E82E5183E223}|NUnitSelenium.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7AF92E22-2351-47D1-92C3-E82E5183E223}|NUnitSelenium.csproj|c:\\users\\shosh\\source\\repos\\nunitselenium\\testdriventesting\\testparforlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7AF92E22-2351-47D1-92C3-E82E5183E223}|NUnitSelenium.csproj|solutionrelative:testdriventesting\\testparforlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -57,10 +65,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{7AF92E22-2351-47D1-92C3-E82E5183E223}|NUnitSelenium.csproj|c:\\users\\shosh\\source\\repos\\nunitselenium\\testdriventesting\\testparusingtestcase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7AF92E22-2351-47D1-92C3-E82E5183E223}|NUnitSelenium.csproj|solutionrelative:testdriventesting\\testparusingtestcase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7AF92E22-2351-47D1-92C3-E82E5183E223}|NUnitSelenium.csproj|c:\\users\\shosh\\source\\repos\\nunitselenium\\selenium\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7AF92E22-2351-47D1-92C3-E82E5183E223}|NUnitSelenium.csproj|solutionrelative:selenium\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7AF92E22-2351-47D1-92C3-E82E5183E223}|NUnitSelenium.csproj|c:\\users\\shosh\\source\\repos\\nunitselenium\\nunitselenium.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -211,10 +215,6 @@
       "RelativeMoniker": "D:0:0:{7AF92E22-2351-47D1-92C3-E82E5183E223}|NUnitSelenium.csproj|solutionrelative:selenium\\locators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7AF92E22-2351-47D1-92C3-E82E5183E223}|NUnitSelenium.csproj|c:\\users\\shosh\\source\\repos\\nunitselenium\\selenium\\launchedgebrowser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7AF92E22-2351-47D1-92C3-E82E5183E223}|NUnitSelenium.csproj|solutionrelative:selenium\\launchedgebrowser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7AF92E22-2351-47D1-92C3-E82E5183E223}|NUnitSelenium.csproj|c:\\users\\shosh\\source\\repos\\nunitselenium\\selenium\\launchfirefoxbrowser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7AF92E22-2351-47D1-92C3-E82E5183E223}|NUnitSelenium.csproj|solutionrelative:selenium\\launchfirefoxbrowser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -230,19 +230,98 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ParallelExecutionUsingTestParms.cs",
-              "DocumentMoniker": "C:\\Users\\shosh\\source\\repos\\NUnitSelenium\\ParallelExec\\ParallelExecutionUsingTestParms.cs",
-              "RelativeDocumentMoniker": "ParallelExec\\ParallelExecutionUsingTestParms.cs",
-              "ToolTip": "C:\\Users\\shosh\\source\\repos\\NUnitSelenium\\ParallelExec\\ParallelExecutionUsingTestParms.cs",
-              "RelativeToolTip": "ParallelExec\\ParallelExecutionUsingTestParms.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwA0AAAAoAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "TestParmExcel.cs",
+              "DocumentMoniker": "C:\\Users\\shosh\\source\\repos\\NUnitSelenium\\TestParmExcel.cs",
+              "RelativeDocumentMoniker": "TestParmExcel.cs",
+              "ToolTip": "C:\\Users\\shosh\\source\\repos\\NUnitSelenium\\TestParmExcel.cs",
+              "RelativeToolTip": "TestParmExcel.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwCoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T08:38:14.314Z"
+              "WhenOpened": "2024-09-21T06:52:53.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PrimeNumberUnitTesting.cs",
+              "DocumentMoniker": "C:\\Users\\shosh\\source\\repos\\NUnitSelenium\\NUnitTest\\PrimeNumberUnitTesting.cs",
+              "RelativeDocumentMoniker": "NUnitTest\\PrimeNumberUnitTesting.cs",
+              "ToolTip": "C:\\Users\\shosh\\source\\repos\\NUnitSelenium\\NUnitTest\\PrimeNumberUnitTesting.cs",
+              "RelativeToolTip": "NUnitTest\\PrimeNumberUnitTesting.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwBkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T08:23:20.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\shosh\\source\\repos\\NUnitSelenium\\Selenium\\Login.cs",
+              "RelativeDocumentMoniker": "Selenium\\Login.cs",
+              "ToolTip": "C:\\Users\\shosh\\source\\repos\\NUnitSelenium\\Selenium\\Login.cs",
+              "RelativeToolTip": "Selenium\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T12:21:41.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Base.cs",
+              "DocumentMoniker": "C:\\Users\\shosh\\source\\repos\\NUnitSelenium\\Utilities\\Base.cs",
+              "RelativeDocumentMoniker": "Utilities\\Base.cs",
+              "ToolTip": "C:\\Users\\shosh\\source\\repos\\NUnitSelenium\\Utilities\\Base.cs",
+              "RelativeToolTip": "Utilities\\Base.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAmwCoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T03:54:19.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\shosh\\source\\repos\\NUnitSelenium\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "C:\\Users\\shosh\\source\\repos\\NUnitSelenium\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-09-21T04:20:43.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LaunchEdgeBrowser.cs",
+              "DocumentMoniker": "C:\\Users\\shosh\\source\\repos\\NUnitSelenium\\Selenium\\LaunchEdgeBrowser.cs",
+              "RelativeDocumentMoniker": "Selenium\\LaunchEdgeBrowser.cs",
+              "ToolTip": "C:\\Users\\shosh\\source\\repos\\NUnitSelenium\\Selenium\\LaunchEdgeBrowser.cs",
+              "RelativeToolTip": "Selenium\\LaunchEdgeBrowser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T09:52:07.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ExcelRead.cs",
+              "DocumentMoniker": "C:\\Users\\shosh\\source\\repos\\NUnitSelenium\\Utilities\\ExcelRead.cs",
+              "RelativeDocumentMoniker": "Utilities\\ExcelRead.cs",
+              "ToolTip": "C:\\Users\\shosh\\source\\repos\\NUnitSelenium\\Utilities\\ExcelRead.cs",
+              "RelativeToolTip": "Utilities\\ExcelRead.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAIBJwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T06:54:45.86Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -258,44 +337,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ExcelRead.cs",
-              "DocumentMoniker": "C:\\Users\\shosh\\source\\repos\\NUnitSelenium\\Utilities\\ExcelRead.cs",
-              "RelativeDocumentMoniker": "Utilities\\ExcelRead.cs",
-              "ToolTip": "C:\\Users\\shosh\\source\\repos\\NUnitSelenium\\Utilities\\ExcelRead.cs",
-              "RelativeToolTip": "Utilities\\ExcelRead.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "ParallelExecutionUsingTestParms.cs",
+              "DocumentMoniker": "C:\\Users\\shosh\\source\\repos\\NUnitSelenium\\ParallelExec\\ParallelExecutionUsingTestParms.cs",
+              "RelativeDocumentMoniker": "ParallelExec\\ParallelExecutionUsingTestParms.cs",
+              "ToolTip": "C:\\Users\\shosh\\source\\repos\\NUnitSelenium\\ParallelExec\\ParallelExecutionUsingTestParms.cs",
+              "RelativeToolTip": "ParallelExec\\ParallelExecutionUsingTestParms.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwA0AAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T06:54:45.86Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "TestParmExcel.cs",
-              "DocumentMoniker": "C:\\Users\\shosh\\source\\repos\\NUnitSelenium\\TestParmExcel.cs",
-              "RelativeDocumentMoniker": "TestParmExcel.cs",
-              "ToolTip": "C:\\Users\\shosh\\source\\repos\\NUnitSelenium\\TestParmExcel.cs",
-              "RelativeToolTip": "TestParmExcel.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAACoAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T06:52:53.376Z",
+              "WhenOpened": "2024-09-21T08:38:14.314Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "PrimeNumberUnitTesting.cs",
-              "DocumentMoniker": "C:\\Users\\shosh\\source\\repos\\NUnitSelenium\\NUnitTest\\PrimeNumberUnitTesting.cs",
-              "RelativeDocumentMoniker": "NUnitTest\\PrimeNumberUnitTesting.cs",
-              "ToolTip": "C:\\Users\\shosh\\source\\repos\\NUnitSelenium\\NUnitTest\\PrimeNumberUnitTesting.cs",
-              "RelativeToolTip": "NUnitTest\\PrimeNumberUnitTesting.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAYwBkAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T08:23:20.158Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "UnitTestCalculatorWithSetUpandtearDown.cs",
               "DocumentMoniker": "C:\\Users\\shosh\\source\\repos\\NUnitSelenium\\NUnitTest\\UnitTestCalculatorWithSetUpandtearDown.cs",
               "RelativeDocumentMoniker": "NUnitTest\\UnitTestCalculatorWithSetUpandtearDown.cs",
@@ -303,59 +358,38 @@
               "RelativeToolTip": "NUnitTest\\UnitTestCalculatorWithSetUpandtearDown.cs",
               "ViewState": "AgIAAEUAAAAAAAAAAAAowEEAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T08:23:38.764Z"
+              "WhenOpened": "2024-09-18T08:23:38.764Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "CategoryTesting.cs",
               "DocumentMoniker": "C:\\Users\\shosh\\source\\repos\\NUnitSelenium\\NUnitTest\\CategoryTesting.cs",
               "RelativeDocumentMoniker": "NUnitTest\\CategoryTesting.cs",
               "ToolTip": "C:\\Users\\shosh\\source\\repos\\NUnitSelenium\\NUnitTest\\CategoryTesting.cs",
               "RelativeToolTip": "NUnitTest\\CategoryTesting.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAkAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T09:49:25.739Z"
+              "WhenOpened": "2024-09-23T09:49:25.739Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "BookingWebSite.cs",
               "DocumentMoniker": "C:\\Users\\shosh\\source\\repos\\NUnitSelenium\\AssignmetBooking\\BookingWebSite.cs",
               "RelativeDocumentMoniker": "AssignmetBooking\\BookingWebSite.cs",
               "ToolTip": "C:\\Users\\shosh\\source\\repos\\NUnitSelenium\\AssignmetBooking\\BookingWebSite.cs",
               "RelativeToolTip": "AssignmetBooking\\BookingWebSite.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB8AAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwB8AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-22T08:53:13.546Z"
+              "WhenOpened": "2024-09-22T08:53:13.546Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Base.cs",
-              "DocumentMoniker": "C:\\Users\\shosh\\source\\repos\\NUnitSelenium\\Utilities\\Base.cs",
-              "RelativeDocumentMoniker": "Utilities\\Base.cs",
-              "ToolTip": "C:\\Users\\shosh\\source\\repos\\NUnitSelenium\\Utilities\\Base.cs",
-              "RelativeToolTip": "Utilities\\Base.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAmwBoAAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T03:54:19.792Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "App.config",
-              "DocumentMoniker": "C:\\Users\\shosh\\source\\repos\\NUnitSelenium\\App.config",
-              "RelativeDocumentMoniker": "App.config",
-              "ToolTip": "C:\\Users\\shosh\\source\\repos\\NUnitSelenium\\App.config",
-              "RelativeToolTip": "App.config",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-09-21T04:20:43.081Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "TestParForLogin.cs",
               "DocumentMoniker": "C:\\Users\\shosh\\source\\repos\\NUnitSelenium\\TestDrivenTesting\\TestParForLogin.cs",
               "RelativeDocumentMoniker": "TestDrivenTesting\\TestParForLogin.cs",
@@ -367,7 +401,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "LoginVerfWithValidCreds.cs",
               "DocumentMoniker": "C:\\Users\\shosh\\source\\repos\\NUnitSelenium\\TestDrivenTesting\\LoginVerfWithValidCreds.cs",
               "RelativeDocumentMoniker": "TestDrivenTesting\\LoginVerfWithValidCreds.cs",
@@ -375,11 +409,12 @@
               "RelativeToolTip": "TestDrivenTesting\\LoginVerfWithValidCreds.cs",
               "ViewState": "AgIAABQAAAAAAAAAAAAQwAAAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T06:04:05.369Z"
+              "WhenOpened": "2024-09-21T06:04:05.369Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "LoginWithInvalidCreds.cs",
               "DocumentMoniker": "C:\\Users\\shosh\\source\\repos\\NUnitSelenium\\TestDrivenTesting\\LoginWithInvalidCreds.cs",
               "RelativeDocumentMoniker": "TestDrivenTesting\\LoginWithInvalidCreds.cs",
@@ -391,7 +426,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "TestParusingTestCaseSource.cs",
               "DocumentMoniker": "C:\\Users\\shosh\\source\\repos\\NUnitSelenium\\TestDrivenTesting\\TestParusingTestCaseSource.cs",
               "RelativeDocumentMoniker": "TestDrivenTesting\\TestParusingTestCaseSource.cs",
@@ -403,7 +438,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "TestParUsingTestCase.cs",
               "DocumentMoniker": "C:\\Users\\shosh\\source\\repos\\NUnitSelenium\\TestDrivenTesting\\TestParUsingTestCase.cs",
               "RelativeDocumentMoniker": "TestDrivenTesting\\TestParUsingTestCase.cs",
@@ -415,7 +450,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "NUnitSelenium.csproj",
               "DocumentMoniker": "C:\\Users\\shosh\\source\\repos\\NUnitSelenium\\NUnitSelenium.csproj",
               "RelativeDocumentMoniker": "NUnitSelenium.csproj",
@@ -423,23 +458,12 @@
               "RelativeToolTip": "NUnitSelenium.csproj",
               "ViewState": "AgIAABsAAAAAAAAAAABBwCUAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-09-21T04:36:29.509Z"
+              "WhenOpened": "2024-09-21T04:36:29.509Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Login.cs",
-              "DocumentMoniker": "C:\\Users\\shosh\\source\\repos\\NUnitSelenium\\Selenium\\Login.cs",
-              "RelativeDocumentMoniker": "Selenium\\Login.cs",
-              "ToolTip": "C:\\Users\\shosh\\source\\repos\\NUnitSelenium\\Selenium\\Login.cs",
-              "RelativeToolTip": "Selenium\\Login.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAuwC4AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T12:21:41.559Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "LaunchChromeBrowser.cs",
               "DocumentMoniker": "C:\\Users\\shosh\\source\\repos\\NUnitSelenium\\Selenium\\LaunchChromeBrowser.cs",
               "RelativeDocumentMoniker": "Selenium\\LaunchChromeBrowser.cs",
@@ -447,11 +471,12 @@
               "RelativeToolTip": "Selenium\\LaunchChromeBrowser.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T09:54:51.84Z"
+              "WhenOpened": "2024-09-17T09:54:51.84Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "WebTableAssignment2.cs",
               "DocumentMoniker": "C:\\Users\\shosh\\source\\repos\\NUnitSelenium\\Selenium\\WebTableAssignment2.cs",
               "RelativeDocumentMoniker": "Selenium\\WebTableAssignment2.cs",
@@ -463,7 +488,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "OtherConcepts.cs",
               "DocumentMoniker": "C:\\Users\\shosh\\source\\repos\\NUnitSelenium\\Selenium\\OtherConcepts.cs",
               "RelativeDocumentMoniker": "Selenium\\OtherConcepts.cs",
@@ -475,7 +500,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "Links.cs",
               "DocumentMoniker": "C:\\Users\\shosh\\source\\repos\\NUnitSelenium\\Selenium\\Links.cs",
               "RelativeDocumentMoniker": "Selenium\\Links.cs",
@@ -487,7 +512,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "WebTable.cs",
               "DocumentMoniker": "C:\\Users\\shosh\\source\\repos\\NUnitSelenium\\Selenium\\WebTable.cs",
               "RelativeDocumentMoniker": "Selenium\\WebTable.cs",
@@ -499,7 +524,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "DynamicWebElement.cs",
               "DocumentMoniker": "C:\\Users\\shosh\\source\\repos\\NUnitSelenium\\Selenium\\DynamicWebElement.cs",
               "RelativeDocumentMoniker": "Selenium\\DynamicWebElement.cs",
@@ -511,7 +536,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "ClassKeyBoardAssignment.cs",
               "DocumentMoniker": "C:\\Users\\shosh\\source\\repos\\NUnitSelenium\\Selenium\\ClassKeyBoardAssignment.cs",
               "RelativeDocumentMoniker": "Selenium\\ClassKeyBoardAssignment.cs",
@@ -523,7 +548,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "ClassWindowAssignment.cs",
               "DocumentMoniker": "C:\\Users\\shosh\\source\\repos\\NUnitSelenium\\Selenium\\ClassWindowAssignment.cs",
               "RelativeDocumentMoniker": "Selenium\\ClassWindowAssignment.cs",
@@ -535,7 +560,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "ClassFrameAssignment.cs",
               "DocumentMoniker": "C:\\Users\\shosh\\source\\repos\\NUnitSelenium\\Selenium\\ClassFrameAssignment.cs",
               "RelativeDocumentMoniker": "Selenium\\ClassFrameAssignment.cs",
@@ -547,7 +572,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "KeyBoardActionCommands.cs",
               "DocumentMoniker": "C:\\Users\\shosh\\source\\repos\\NUnitSelenium\\Selenium\\KeyBoardActionCommands.cs",
               "RelativeDocumentMoniker": "Selenium\\KeyBoardActionCommands.cs",
@@ -559,7 +584,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "MultipleWindowHandeling.cs",
               "DocumentMoniker": "C:\\Users\\shosh\\source\\repos\\NUnitSelenium\\Selenium\\MultipleWindowHandeling.cs",
               "RelativeDocumentMoniker": "Selenium\\MultipleWindowHandeling.cs",
@@ -571,7 +596,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "FramesCommand.cs",
               "DocumentMoniker": "C:\\Users\\shosh\\source\\repos\\NUnitSelenium\\Selenium\\FramesCommand.cs",
               "RelativeDocumentMoniker": "Selenium\\FramesCommand.cs",
@@ -583,7 +608,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "DragAndDropExample.cs",
               "DocumentMoniker": "C:\\Users\\shosh\\source\\repos\\NUnitSelenium\\Selenium\\DragAndDropExample.cs",
               "RelativeDocumentMoniker": "Selenium\\DragAndDropExample.cs",
@@ -595,7 +620,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 30,
               "Title": "MoveToElemntCommand.cs",
               "DocumentMoniker": "C:\\Users\\shosh\\source\\repos\\NUnitSelenium\\Selenium\\MoveToElemntCommand.cs",
               "RelativeDocumentMoniker": "Selenium\\MoveToElemntCommand.cs",
@@ -607,7 +632,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 31,
               "Title": "CommandClickAndHold.cs",
               "DocumentMoniker": "C:\\Users\\shosh\\source\\repos\\NUnitSelenium\\Selenium\\CommandClickAndHold.cs",
               "RelativeDocumentMoniker": "Selenium\\CommandClickAndHold.cs",
@@ -619,7 +644,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 32,
               "Title": "ContextClickCommand.cs",
               "DocumentMoniker": "C:\\Users\\shosh\\source\\repos\\NUnitSelenium\\Selenium\\ContextClickCommand.cs",
               "RelativeDocumentMoniker": "Selenium\\ContextClickCommand.cs",
@@ -631,7 +656,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 33,
               "Title": "ClassActionsCommand.cs",
               "DocumentMoniker": "C:\\Users\\shosh\\source\\repos\\NUnitSelenium\\Selenium\\ClassActionsCommand.cs",
               "RelativeDocumentMoniker": "Selenium\\ClassActionsCommand.cs",
@@ -643,7 +668,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 35,
               "Title": "Assignment4.cs",
               "DocumentMoniker": "C:\\Users\\shosh\\source\\repos\\NUnitSelenium\\Selenium\\Assignment4.cs",
               "RelativeDocumentMoniker": "Selenium\\Assignment4.cs",
@@ -655,7 +680,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 40,
               "Title": "VerticalScrool.cs",
               "DocumentMoniker": "C:\\Users\\shosh\\source\\repos\\NUnitSelenium\\Selenium\\VerticalScrool.cs",
               "RelativeDocumentMoniker": "Selenium\\VerticalScrool.cs",
@@ -667,7 +692,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 41,
               "Title": "TakeScreenShot.cs",
               "DocumentMoniker": "C:\\Users\\shosh\\source\\repos\\NUnitSelenium\\Selenium\\TakeScreenShot.cs",
               "RelativeDocumentMoniker": "Selenium\\TakeScreenShot.cs",
@@ -679,7 +704,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 39,
               "Title": "DownloadFile.cs",
               "DocumentMoniker": "C:\\Users\\shosh\\source\\repos\\NUnitSelenium\\Selenium\\DownloadFile.cs",
               "RelativeDocumentMoniker": "Selenium\\DownloadFile.cs",
@@ -691,7 +716,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 34,
               "Title": "Assignment1.cs",
               "DocumentMoniker": "C:\\Users\\shosh\\source\\repos\\NUnitSelenium\\Selenium\\Assignment1.cs",
               "RelativeDocumentMoniker": "Selenium\\Assignment1.cs",
@@ -703,7 +728,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 36,
               "Title": "DropDown.cs",
               "DocumentMoniker": "C:\\Users\\shosh\\source\\repos\\NUnitSelenium\\Selenium\\DropDown.cs",
               "RelativeDocumentMoniker": "Selenium\\DropDown.cs",
@@ -715,7 +740,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 37,
               "Title": "Assignment3.cs",
               "DocumentMoniker": "C:\\Users\\shosh\\source\\repos\\NUnitSelenium\\Selenium\\Assignment3.cs",
               "RelativeDocumentMoniker": "Selenium\\Assignment3.cs",
@@ -727,7 +752,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 38,
               "Title": "FileUpload.cs",
               "DocumentMoniker": "C:\\Users\\shosh\\source\\repos\\NUnitSelenium\\Selenium\\FileUpload.cs",
               "RelativeDocumentMoniker": "Selenium\\FileUpload.cs",
@@ -739,7 +764,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 42,
               "Title": "Alerts.cs",
               "DocumentMoniker": "C:\\Users\\shosh\\source\\repos\\NUnitSelenium\\Selenium\\Alerts.cs",
               "RelativeDocumentMoniker": "Selenium\\Alerts.cs",
@@ -751,7 +776,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 44,
               "Title": "RadioButton.cs",
               "DocumentMoniker": "C:\\Users\\shosh\\source\\repos\\NUnitSelenium\\Selenium\\RadioButton.cs",
               "RelativeDocumentMoniker": "Selenium\\RadioButton.cs",
@@ -763,7 +788,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 43,
               "Title": "MultipleRadio.cs",
               "DocumentMoniker": "C:\\Users\\shosh\\source\\repos\\NUnitSelenium\\Selenium\\MultipleRadio.cs",
               "RelativeDocumentMoniker": "Selenium\\MultipleRadio.cs",
@@ -775,7 +800,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 45,
               "Title": "MultipleCheckBoxes.cs",
               "DocumentMoniker": "C:\\Users\\shosh\\source\\repos\\NUnitSelenium\\Selenium\\MultipleCheckBoxes.cs",
               "RelativeDocumentMoniker": "Selenium\\MultipleCheckBoxes.cs",
@@ -787,7 +812,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 47,
               "Title": "CheckBox.cs",
               "DocumentMoniker": "C:\\Users\\shosh\\source\\repos\\NUnitSelenium\\Selenium\\CheckBox.cs",
               "RelativeDocumentMoniker": "Selenium\\CheckBox.cs",
@@ -799,7 +824,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 48,
               "Title": "NavigationalCommands.cs",
               "DocumentMoniker": "C:\\Users\\shosh\\source\\repos\\NUnitSelenium\\Selenium\\NavigationalCommands.cs",
               "RelativeDocumentMoniker": "Selenium\\NavigationalCommands.cs",
@@ -811,7 +836,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 46,
               "Title": "BrowserCommands.cs",
               "DocumentMoniker": "C:\\Users\\shosh\\source\\repos\\NUnitSelenium\\Selenium\\BrowserCommands.cs",
               "RelativeDocumentMoniker": "Selenium\\BrowserCommands.cs",
@@ -823,7 +848,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 49,
               "Title": "FactorialUnitTesting.cs",
               "DocumentMoniker": "C:\\Users\\shosh\\source\\repos\\NUnitSelenium\\NUnitTest\\FactorialUnitTesting.cs",
               "RelativeDocumentMoniker": "NUnitTest\\FactorialUnitTesting.cs",
@@ -835,7 +860,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 50,
               "Title": "Assertions.cs",
               "DocumentMoniker": "C:\\Users\\shosh\\source\\repos\\NUnitSelenium\\NUnitTest\\Assertions.cs",
               "RelativeDocumentMoniker": "NUnitTest\\Assertions.cs",
@@ -847,7 +872,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 51,
               "Title": "Assignment2.cs",
               "DocumentMoniker": "C:\\Users\\shosh\\source\\repos\\NUnitSelenium\\Selenium\\Assignment2.cs",
               "RelativeDocumentMoniker": "Selenium\\Assignment2.cs",
@@ -859,7 +884,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 52,
               "Title": "Locators.cs",
               "DocumentMoniker": "C:\\Users\\shosh\\source\\repos\\NUnitSelenium\\Selenium\\Locators.cs",
               "RelativeDocumentMoniker": "Selenium\\Locators.cs",
@@ -880,18 +905,6 @@
               "ViewState": "AgIAAAwAAAAAAAAAAAAIwBQAAABkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-17T09:55:05.126Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 52,
-              "Title": "LaunchEdgeBrowser.cs",
-              "DocumentMoniker": "C:\\Users\\shosh\\source\\repos\\NUnitSelenium\\Selenium\\LaunchEdgeBrowser.cs",
-              "RelativeDocumentMoniker": "Selenium\\LaunchEdgeBrowser.cs",
-              "ToolTip": "C:\\Users\\shosh\\source\\repos\\NUnitSelenium\\Selenium\\LaunchEdgeBrowser.cs",
-              "RelativeToolTip": "Selenium\\LaunchEdgeBrowser.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAACBjwBIAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T09:52:07.978Z"
             }
           ]
         },

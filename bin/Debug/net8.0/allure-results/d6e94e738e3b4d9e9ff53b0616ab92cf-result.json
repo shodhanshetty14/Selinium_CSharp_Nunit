@@ -1,0 +1,51 @@
+{
+  "uuid": "cde85909-5d06-4c53-8ae7-83809e38fc18",
+  "historyId": "337f8f08875127bc2b6304e06c988e56",
+  "testCaseId": "402531e961b97763745e886a567aa19d",
+  "fullName": "NUnitSelenium:NUnitSelenium.NUnitTest.AllureTestReportGeneration.Products()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "AUTOOADVLA50ZZG"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "NUnitSelenium.NUnitTest"
+    },
+    {
+      "name": "testMethod",
+      "value": "Products"
+    },
+    {
+      "name": "testClass",
+      "value": "AllureTestReportGeneration"
+    }
+  ],
+  "links": [],
+  "name": "Products",
+  "status": "passed",
+  "stage": "finished",
+  "steps": [],
+  "attachments": [
+    {
+      "name": "Console Output",
+      "source": "1b4fb5b3-3416-40d0-966b-114b6778a9e8-attachment.txt",
+      "type": "text/plain"
+    }
+  ],
+  "parameters": [],
+  "start": 1727421539342,
+  "stop": 1727421539344
+}

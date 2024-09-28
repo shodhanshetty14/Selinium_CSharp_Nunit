@@ -1,0 +1,45 @@
+{
+  "uuid": "4d8d2dc8-5cad-4d5a-8940-0c49b58c4466",
+  "historyId": "8c3554684193536bd523f370396d5438",
+  "testCaseId": "4f66a217a33d58275895063154835dd5",
+  "fullName": "NUnitSelenium:NUnitSelenium.NUnitTest.CalculatorUnitTesting.TestSub()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "AUTOOADVLA50ZZG"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "NUnitSelenium.NUnitTest"
+    },
+    {
+      "name": "testMethod",
+      "value": "TestSub"
+    },
+    {
+      "name": "testClass",
+      "value": "CalculatorUnitTesting"
+    }
+  ],
+  "links": [],
+  "name": "TestSub",
+  "status": "passed",
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1727421539965,
+  "stop": 1727421539971
+}

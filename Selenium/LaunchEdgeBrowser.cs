@@ -15,8 +15,8 @@ namespace NUnitSelenium.Selenium
         [SetUp]
         public void startBrowser()
         {
-            new WebDriverManager.DriverManager().SetUpDriver(new EdgeConfig());
-            EdgeDriver driver = new EdgeDriver();
+            new WebDriverManager.DriverManager().SetUpDriver(new ChromeConfig());
+            ChromeDriver driver = new ChromeDriver();
 
             driver.Navigate().GoToUrl("https://opensource-demo.orangehrmlive.com/web/index.php/auth/login");
 

@@ -1,0 +1,51 @@
+{
+  "uuid": "59f4dec7-8236-4b90-90b0-06cfe9edaa76",
+  "historyId": "a8d1d9790c9ee62a4aa4e485a1f62b87",
+  "testCaseId": "0df0b33262fd97c00ca33b690defb042",
+  "fullName": "NUnitSelenium:NUnitSelenium.NUnitTest.TestOrders.Login()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "AUTOOADVLA50ZZG"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "NUnitSelenium.NUnitTest"
+    },
+    {
+      "name": "testMethod",
+      "value": "Login"
+    },
+    {
+      "name": "testClass",
+      "value": "TestOrders"
+    }
+  ],
+  "links": [],
+  "name": "Login",
+  "status": "passed",
+  "stage": "finished",
+  "steps": [],
+  "attachments": [
+    {
+      "name": "Console Output",
+      "source": "11bf246c-04e9-4ffa-a6eb-1a0794b46826-attachment.txt",
+      "type": "text/plain"
+    }
+  ],
+  "parameters": [],
+  "start": 1727419403649,
+  "stop": 1727419403683
+}

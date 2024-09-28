@@ -26,6 +26,7 @@ namespace NUnitSelenium.Selenium
         public void tearDown()
         {
             driver.Close();
+            //closing the driver
         }
 
 

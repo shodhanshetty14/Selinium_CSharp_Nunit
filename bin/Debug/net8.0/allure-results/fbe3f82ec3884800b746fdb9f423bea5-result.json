@@ -1,0 +1,51 @@
+{
+  "uuid": "b3eb4724-662e-463c-9a47-9a402957b303",
+  "historyId": "ab095e92675f89ad7ef401913600a324",
+  "testCaseId": "51522bad69be60efff74fe2ffa0ff632",
+  "fullName": "NUnitSelenium:NUnitSelenium.NUnitTest.TestOrders.Products()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "AUTOOADVLA50ZZG"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "NUnitSelenium.NUnitTest"
+    },
+    {
+      "name": "testMethod",
+      "value": "Products"
+    },
+    {
+      "name": "testClass",
+      "value": "TestOrders"
+    }
+  ],
+  "links": [],
+  "name": "Products",
+  "status": "passed",
+  "stage": "finished",
+  "steps": [],
+  "attachments": [
+    {
+      "name": "Console Output",
+      "source": "b925adf6-b335-423b-b86b-a82728dac76c-attachment.txt",
+      "type": "text/plain"
+    }
+  ],
+  "parameters": [],
+  "start": 1727419403717,
+  "stop": 1727419403757
+}

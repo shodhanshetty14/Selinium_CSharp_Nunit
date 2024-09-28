@@ -1,0 +1,14 @@
+{
+  "uuid": "ca09a3ba-e0f0-4bf6-a03f-bcc453598a07",
+  "name": "NUnitSelenium.NUnitTest.SetUpTearDown",
+  "children": [
+    "a886d1c8-bc36-4d1e-80f1-5c575f83bbac",
+    "747e2a90-e674-4104-801b-ea0f6359c2d2",
+    "651eb2aa-cbf5-4b75-aab8-0964689dceed"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1727421540770,
+  "stop": 1727421541093
+}

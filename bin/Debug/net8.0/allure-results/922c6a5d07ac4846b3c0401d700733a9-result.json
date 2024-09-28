@@ -1,0 +1,59 @@
+{
+  "uuid": "bd4d95f8-8508-4f0b-ab8f-6b710eac09ea",
+  "historyId": "d4e03ef8f38462120a1b308f01a0db5d",
+  "testCaseId": "38b8e7448e370eaa08338ad444a4c4a5",
+  "fullName": "NUnitSelenium:NUnitSelenium.NUnitTest.CategoryTesting.Products()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "AUTOOADVLA50ZZG"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "NUnitSelenium.NUnitTest"
+    },
+    {
+      "name": "testMethod",
+      "value": "Products"
+    },
+    {
+      "name": "testClass",
+      "value": "CategoryTesting"
+    },
+    {
+      "name": "tag",
+      "value": "Sanity"
+    },
+    {
+      "name": "tag",
+      "value": "Testing..........."
+    }
+  ],
+  "links": [],
+  "name": "Products",
+  "status": "passed",
+  "stage": "finished",
+  "steps": [],
+  "attachments": [
+    {
+      "name": "Console Output",
+      "source": "3db23ca2-369b-4cf7-ab7d-1dfc570d263f-attachment.txt",
+      "type": "text/plain"
+    }
+  ],
+  "parameters": [],
+  "start": 1727419403426,
+  "stop": 1727419403429
+}

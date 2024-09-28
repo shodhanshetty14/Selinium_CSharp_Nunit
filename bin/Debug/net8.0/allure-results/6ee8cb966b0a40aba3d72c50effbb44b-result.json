@@ -1,0 +1,51 @@
+{
+  "uuid": "c55cbddb-6ef4-41e8-a0bc-c56bbe5553a1",
+  "historyId": "d215e955850b562e99aea31c11ac2e8f",
+  "testCaseId": "8c7b19eb24ec8d004ad8712951457039",
+  "fullName": "NUnitSelenium:NUnitSelenium.NUnitTest.UnitTestCalculatorWithSetUpandtearDown.TestSub()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "AUTOOADVLA50ZZG"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "NUnitSelenium.NUnitTest"
+    },
+    {
+      "name": "testMethod",
+      "value": "TestSub"
+    },
+    {
+      "name": "testClass",
+      "value": "UnitTestCalculatorWithSetUpandtearDown"
+    }
+  ],
+  "links": [],
+  "name": "TestSub",
+  "status": "passed",
+  "stage": "finished",
+  "steps": [],
+  "attachments": [
+    {
+      "name": "Console Output",
+      "source": "ca8945bc-e334-417b-8c96-4a88c2f38497-attachment.txt",
+      "type": "text/plain"
+    }
+  ],
+  "parameters": [],
+  "start": 1727421541848,
+  "stop": 1727421541855
+}
